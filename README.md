@@ -2,6 +2,8 @@
 
 YouChat is a  chat appication that makes it easy to communicate with people anywhere in the world by sending and receiving messages in real time. It is built with react, react router and firebase.
 
+![readmeImage](https://user-images.githubusercontent.com/63148200/184055827-8addb9a1-0f34-4e4d-8bb1-ce84cad22a36.png)
+
 
 ## Technology stack
 
